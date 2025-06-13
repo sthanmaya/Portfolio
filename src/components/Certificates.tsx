@@ -22,7 +22,7 @@ const certificates = [
     color: "from-blue-500 to-indigo-500",
     description:
       "Hands-on experience in Salesforce development, CRM customization, and workflows.",
-    image: "/public/Salesforce.jpg",
+    image: "/Salesforce.JPG",
   },
   {
     title: "J.P. Morgan Excel Skills Job Simulation",
@@ -31,7 +31,7 @@ const certificates = [
     color: "from-green-500 to-emerald-500",
     description:
       "Simulated work tasks to strengthen Excel-based financial modeling and analysis.",
-    image: "/public/Excel.jpg",
+    image: "/Excel.JPG",
   },
   {
     title: "Android Developer Virtual Internship",
@@ -40,7 +40,7 @@ const certificates = [
     color: "from-yellow-500 to-orange-500",
     description:
       "Created Android apps using Kotlin and Java, including UI/UX and Firebase integration.",
-    image: "/public/Android.jpg",
+    image: "/Android.JPG",
   },
   {
     title: "Cybersecurity Analyst Job Simulation",
@@ -49,7 +49,7 @@ const certificates = [
     color: "from-red-500 to-pink-500",
     description:
       "Simulated security threat assessments, risk mitigation strategies, and incident response.",
-    image: "/public/CS.jpg",
+    image: "/CS.JPG",
   },
   {
     title: "Data Engineering Virtual Internship",
@@ -58,7 +58,7 @@ const certificates = [
     color: "from-indigo-600 to-cyan-600",
     description:
       "Covered ETL pipelines, AWS services, and data lake architecture using AWS Academy resources.",
-    image: "/public/Data.jpg",
+    image: "/Data.JPG",
   },
   {
     title: "Accenture Data Analytics Job Simulation",
@@ -67,7 +67,7 @@ const certificates = [
     color: "from-purple-600 to-pink-600",
     description:
       "Analyzed data and created visual dashboards for simulated business cases using Power BI.",
-    image: "/public/Accenture.jpg",
+    image: "/Accenture.JPG",
   },
   {
     title: "Cloud Virtual Internship",
@@ -76,7 +76,7 @@ const certificates = [
     color: "from-teal-500 to-sky-500",
     description:
       "Completed projects on AWS cloud services, serverless architecture, and deployment pipelines.",
-    image: "/public/Cloud.jpg",
+    image: "/Cloud.JPG",
   },
   {
     title: "Salesforce Administrator Virtual Internship",
@@ -85,7 +85,7 @@ const certificates = [
     color: "from-rose-500 to-fuchsia-500",
     description:
       "Explored Salesforce admin capabilities including workflows, security, and reports.",
-    image: "/public/Admin.jpg",
+    image: "/Admin.JPG",
   },
   {
     title: "TCS iON Career Edge – Young Professional",
@@ -94,7 +94,7 @@ const certificates = [
     color: "from-lime-500 to-green-500",
     description:
       "Focused on business communication, IT basics, and career readiness skills.",
-    image: "/public/Tcs.jpg",
+    image: "/Tcs.JPG",
   },
   {
     title: "Full Stack Development Internship – Venzo Technologies",
@@ -103,7 +103,7 @@ const certificates = [
     color: "from-blue-700 to-purple-700",
     description:
       "Built and deployed full-stack applications with React, Node.js, and MongoDB.",
-    image: "/Venzo.jpg",
+    image: "/Venzo.JPG",
   },
   {
     title: "Google AIML Virtual Internship",
@@ -112,7 +112,7 @@ const certificates = [
     color: "from-blue-700 to-purple-700",
     description:
       "Explored machine learning algorithms and developed intelligent web apps using TensorFlow, Python, and React as part of Google’s AIML program.",
-    image: "/public/AIML.jpg",
+    image: "/AIML.JPG",
   },
 ];
 
